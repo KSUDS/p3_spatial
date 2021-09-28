@@ -1,4 +1,4 @@
-# Project 4: Telling a spatial story
+# Project 3: Telling a spatial story
 
 ## Background
 
