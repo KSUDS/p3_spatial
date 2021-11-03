@@ -8,6 +8,11 @@ As a class, we will identify a business purpose for this data.  Once we settle o
 
 ## Readings
 
+- [How spatial polygons shape our world - Amelia McNamara video](https://www.youtube.com/watch?v=wn5larsRHro)
+- [Spatial Data Science: With applications in R](https://keen-swartz-3146c4.netlify.app/)
+- [Geocomputation with R](https://geocompr.robinlovelace.net/)
+- [Spatial Analysis introduction using Python](https://sustainability-gis.readthedocs.io/en/latest/lessons/L1/intro-to-python-geostack.html#tutorial-1-2-spatial-analysis-with-python)
+
 ### Data information
 
 This data cannot be shared in your repository based on our [use agreement with SafeGraph](https://shop.safegraph.com/terms-of-service/).  However, you can display your results and snippets to help explain your project. Use their [FAQ](https://docs.google.com/document/d/1h-pkpIZWeynF3_BcylRmgeWS7282kIUGoM0TSSIUhgM/edit#) for additional guidance.
@@ -16,11 +21,6 @@ This data cannot be shared in your repository based on our [use agreement with S
 - [Geometry data dictionary](https://docs.safegraph.com/docs/geometry-data)
 - [Patterns data dictionary](https://docs.safegraph.com/docs/monthly-patterns)
 - [KSUDS SafeGraph Data](https://github.com/KSUDS/safegraph_data)
-
-### SafeGraph Packages
-
-- [SafeGraphR](https://safegraphinc.github.io/SafeGraphR/) and [Github repo](https://github.com/SafeGraphInc/SafeGraphR)
-- [Safegraph_py](https://colab.research.google.com/drive/1V7hnyYuY_dUXQEPkCMZkgMuBFQV4iA_4?usp=sharing) and [Github repo](https://github.com/SafeGraphInc/safegraph_py)
 
 ### Spatial Packages
 
